@@ -1,0 +1,9 @@
+/* Variables */
+:root {
+--blue-100: 255;
+--blue-200: 12171775;
+}
+.card {
+  backgroundColor: var(blue-200);
+  borderColor: var(blue-100);
+}

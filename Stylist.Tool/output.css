@@ -1,0 +1,19 @@
+:root {
+	/* Variables */
+	--blue-100: #0F0F0F;
+	--blue-200: #B9B9FF;
+	--thick-001: 1px;
+
+	/* Tokens */
+	--container-border-color: var(--blue-100);
+	--container-background: var(--blue-200);
+	--container-border-width: var(--thick-001);
+}
+
+/* Rules */
+
+.card {
+	background-color: var(--container-border-color);
+	border-color: var(--container-background);
+	border-width: var(--container-border-width);
+}

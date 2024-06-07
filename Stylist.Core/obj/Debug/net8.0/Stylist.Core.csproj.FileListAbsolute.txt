@@ -1,0 +1,11 @@
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.AssemblyInfoInputs.cache
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.AssemblyInfo.cs
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\Stylist\Stylist.Core\bin\Debug\net8.0\Stylist.Core.deps.json
+C:\Users\Diego\source\Stylist\Stylist.Core\bin\Debug\net8.0\Stylist.Core.dll
+C:\Users\Diego\source\Stylist\Stylist.Core\bin\Debug\net8.0\Stylist.Core.pdb
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.dll
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\refint\Stylist.Core.dll
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\Stylist.Core.pdb
+C:\Users\Diego\source\Stylist\Stylist.Core\obj\Debug\net8.0\ref\Stylist.Core.dll

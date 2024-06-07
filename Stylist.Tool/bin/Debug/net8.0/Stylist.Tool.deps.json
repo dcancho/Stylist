@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stylist.Tool/1.0.0": {
+        "dependencies": {
+          "Stylist.Core": "1.0.0"
+        },
+        "runtime": {
+          "Stylist.Tool.dll": {}
+        }
+      },
+      "Stylist.Core/1.0.0": {
+        "runtime": {
+          "Stylist.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stylist.Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stylist.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

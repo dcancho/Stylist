@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Stylist (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Stylist (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
