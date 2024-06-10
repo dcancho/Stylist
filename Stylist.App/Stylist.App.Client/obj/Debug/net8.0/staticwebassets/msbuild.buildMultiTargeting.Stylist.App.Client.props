@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Stylist.App.Client.props" />
+</Project>

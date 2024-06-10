@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APJELjQYF/Yc+HEW5FpaRObnNYknr+yxwqTC/rQRO4jurzwywSfizh7N0UsDldXdo05LZSIEVml4M8+kR+2Qmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\source\\Stylist\\Stylist.App\\Stylist.App\\Stylist.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.1\\microsoft.aspnetcore.components.webassembly.server.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
